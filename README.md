@@ -1,9 +1,7 @@
-
-
 ### <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" alt="ShashwatSuman29" width="40" height="40">, I'm Shashwat Suman</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-01&label=Profile%20views&color=0e75b6&style=flat" alt="onkar01"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashwatSuman29&label=Profile%20views&color=0e75b6&style=flat" alt="ShashwatSuman29"></p>
 
-<h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="onkar01" width="70" height="40"> </h3>
+<h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="ShashwatSuman29" width="70" height="40"> </h3>
 <p align="center" >
 <a href="https://x.com/ShashwatSuman29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shashwat-suman-bb9334255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
