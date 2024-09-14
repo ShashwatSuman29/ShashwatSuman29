@@ -90,7 +90,7 @@ Skills: C / C++ / React / MERN/ BOOTSTRAP / Tailwaind CSS / JS / HTML / CSS
 
 
 <br/>
-## Connect with me
+Connect with me.
 
 <div align="center">
 <br/>
