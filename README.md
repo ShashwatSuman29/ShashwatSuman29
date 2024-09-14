@@ -75,6 +75,7 @@ Skills: C / C++ / React / MERN/ BOOTSTRAP / Tailwaind CSS / JS / HTML / CSS
 <p align="center">
   <a href="https://github.com/ShashwatSuman29">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShashwatSuman29&theme=radical" alt="Shashwat's GitHub Contribution"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatSuman29&theme=react&hide_border=true"/>
   </a>
 </p>
 
@@ -84,15 +85,9 @@ Skills: C / C++ / React / MERN/ BOOTSTRAP / Tailwaind CSS / JS / HTML / CSS
   <br/>
 </a>
 
-![Shashwat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShashwatSuman29&custom_title=Shashwat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 <br/>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShashwatSuman29&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatSuman29&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ## Connect with me
 
 <div align="center">
