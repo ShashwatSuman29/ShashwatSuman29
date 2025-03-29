@@ -5,17 +5,17 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShashwatSuman29&color=red)
 
-Skills: C / C++ / React / MERN/ BOOTSTRAP / Tailwaind CSS / JS / HTML / CSS
+Skills: C, C++ , React.js , Express.js, MongoDB, Node.js, Supabase, Firebase, Git, Vscode, Postman, Next.js, TailwinCSS , Bootstrap, Spline, Three.js, Stripe
 
 </div>
 
 - 🔭 I’m currently working on Backend Based Projects.
 
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning Three.js and Spline.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShashwatSuman29](https://github.com/ShashwatSuman29)
 
-- 💬 Ask me about **JavaScript , React , Express**
+- 💬 Ask me about **JavaScript , React , Express, Database, AI TOOLS**
 
 - 📫 How to reach me **shashwatsumanat29@gmail.com**
 
